@@ -1,0 +1,13 @@
+Furniture Order Form
+Faculty Name:
+Contact:
+Date:
+
+Original Request: mesh chair, 1
+
+
+Item(s) needed to create mesh chair 1 are: 
+ID: C0942
+ID: C9890
+
+The total price is: $150
